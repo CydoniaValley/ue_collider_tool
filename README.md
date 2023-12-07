@@ -1,2 +1,2 @@
-# ue_collider_tool
+#UEColliderTool
 Blender Collider Tool for Unreal Engine
